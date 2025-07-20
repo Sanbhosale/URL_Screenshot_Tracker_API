@@ -56,7 +56,7 @@ A **backend service** to capture website screenshots asynchronously, built using
 
 ## Sample output
 
-  Submitted https://example.com → Job ID: abc123
+  Submitted https://dribbble.com → Job ID: abc123
   Attempt 1: status = pending
   Attempt 2: status = completed
   Screenshot saved as ./example_com_abc123_20250718_205923.png
