@@ -1,4 +1,4 @@
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/b925bc9b-9baf-44b4-96d3-4eba726e1c56" /># URL Screenshot Tracker API
+# URL Screenshot Tracker API
 
 A **backend service** to capture website screenshots asynchronously, built using Flask, Selenium, and SQLAlchemy. Users can submit URLs for screenshot generation, track job status, and receive webhook notifications upon completion.
 
@@ -67,13 +67,12 @@ A **backend service** to capture website screenshots asynchronously, built using
 ### Sample Console Output
 
 Below is a sample output when running `python Test.py`:
+
 <img width="1919" height="1020" alt="Screenshot 2025-07-20 225838" src="https://github.com/user-attachments/assets/192a320e-e090-4e13-8c4b-aba47d3bcbb7" />
 
 ---
 
 ## Using Postman
-
----
 
 ## **POST /screenshots**
 
