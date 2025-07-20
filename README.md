@@ -66,6 +66,11 @@ A **backend service** to capture website screenshots asynchronously, built using
 
 ### Sample Console Output
 
+Below is a sample output when running `python main.py`:
+
+<img width="1919" height="1017" alt="Screenshot 2025-07-21 004135" src="https://github.com/user-attachments/assets/2cadfe2b-a1ad-4387-8402-e611f98a8782" />
+
+
 Below is a sample output when running `python Test.py`:
 
 <img width="1919" height="1020" alt="Screenshot 2025-07-20 225838" src="https://github.com/user-attachments/assets/192a320e-e090-4e13-8c4b-aba47d3bcbb7" />
